@@ -1,16 +1,14 @@
+### Social Networks
+[![Linked'in](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enzo-peigne/)
+[![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)](https://github.com/epeigne)
+[![Site](https://img.shields.io/badge/website%20&%20portfolio-red?style=for-the-badge&logo=apache)](https://epeigne.fr)
+
 ### Hi there 👋
 
-<!--
-**epeigne/epeigne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)] [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white) [![JS](
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![epeigne's Stats](https://github-readme-stats.vercel.app/api?username=epeigne&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![epeigne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=epeigne&theme=radical&show_icons=true&hide_border=true&layout=compact)
