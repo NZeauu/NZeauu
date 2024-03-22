@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 ### Languages and tools
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)] [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white) [![JS](
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white) ![JS](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ![epeigne's Stats](https://github-readme-stats.vercel.app/api?username=epeigne&theme=radical&show_icons=true&hide_border=true&count_private=true)
