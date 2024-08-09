@@ -2,7 +2,7 @@
 
  - I am a French student in an Engineering school specialised in programming.
  - I am really passionate about programming and cyberdefense & security.
- - Currently learning web development with Java and Spring Boot
+ - Currently learning C# with .NET and app development using WPF
 
 ## Social Networks
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-peigne/)
