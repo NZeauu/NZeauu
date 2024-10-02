@@ -40,6 +40,6 @@
 
 ## Github Stats
 
-![epeigne's Stats](https://github-readme-stats.vercel.app/api?username=epeigne&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![epeigne's Stats](https://github-readme-stats.vercel.app/api?username=NZeauu&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![epeigne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=epeigne&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![epeigne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NZeauu&theme=radical&show_icons=true&hide_border=true&layout=compact)
