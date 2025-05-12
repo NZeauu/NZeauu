@@ -2,7 +2,6 @@
 
  - I am a French student in an Engineering school specialised in programming.
  - I am really passionate about programming and cyberdefense & security.
- - Currently learning C# with .NET and app development using WPF, and Rust
 
 ## Social Networks
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-peigne/)
