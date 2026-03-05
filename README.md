@@ -1,15 +1,11 @@
 # Hi there 👋
 
- - I am a French student in an Engineering school specialised in programming.
- - I am really passionate about programming and cyberdefense & security.
-
 ## Social Networks
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-peigne/)
 [![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)](https://github.com/epeigne)
 [![Site](https://img.shields.io/badge/website%20&%20portfolio-red?style=for-the-badge&logo=apache)](https://epeigne.fr)
 [![RootMe](https://img.shields.io/badge/Root%20Me-black?style=for-the-badge&logo=rootme)](https://www.root-me.org/Enzo-Pgn)
 [![HTB](https://img.shields.io/badge/HackTheBox-darkgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/1882405)
-
 
 
 ## Languages and tools
